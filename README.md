@@ -7,7 +7,8 @@ A SaaS journal
 - [ ] Configuration via Djanog environ
 - [ ] Configure web server
 - [ ] Testing
-- [ ] Continuous integration / pre-commit
+- [ ] Continuous integration
+- [ ] Pre-commit
 - [ ] Django modeling
 - [ ] Heroku
 
