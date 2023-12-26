@@ -2,13 +2,13 @@
 
 A SaaS journal
 
-- [ ] Dependencies
-- [ ] Django
-- [ ] Configuration via Djanog environ
+- [X] Dependencies
+- [X] Django
+- [X] Configuration via Djanog environ
 - [ ] Configure web server
 - [ ] Testing
 - [ ] Continuous integration
-- [ ] Pre-commit
+- [X] Pre-commit
 - [ ] Django modeling
 - [ ] Heroku
 
